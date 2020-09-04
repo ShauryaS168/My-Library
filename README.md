@@ -1,2 +1,2 @@
-# My-Library
-Working on VSC.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
